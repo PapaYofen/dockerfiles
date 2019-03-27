@@ -1,0 +1,2 @@
+### miscellaneous dockerfiles
+- golangci-lint
